@@ -9,7 +9,27 @@
 
 > Just needed a tool to quickly proofread some snaps. The script concatenates images with shared alphabetic prefixes into horizontally stitched strips.
 
+<details>
+<summary>Contents - click to expand</summary>
+
+- [Assembling image strips](#assembling-image-strips)
+  - [Genesis](#genesis)
+  - [Table of Contents](#table-of-contents)
+  - [Features](#features)
+  - [Requirements](#requirements)
+  - [Quickstart](#quickstart)
+  - [Configuration example](#configuration-example)
+    - [Example workflow](#example-workflow)
+  - [Filename grouping rules](#filename-grouping-rules)
+  - [Functional overview](#functional-overview)
+  - [Troubleshooting](#troubleshooting)
+  - [Limitations](#limitations)
+  - [License](#license)
+
+</details>
+
 ## Features
+
 ![Banner Image](<img/strip.gif> "A demo of the algorithm.")
 <br> *Concept example*.
 
